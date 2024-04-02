@@ -1,5 +1,18 @@
 # vercel
 
+## 33.6.3
+
+### Patch Changes
+
+- Handle `--repo` linked in `vc deploy --prebuilt` ([#11309](https://github.com/vercel/vercel/pull/11309))
+
+- Revert "[cli] extract `isZeroConfigBuild` into utility function (#11316)" ([#11350](https://github.com/vercel/vercel/pull/11350))
+
+- Replace `inquirer` with `@inquirer/prompts` ([#11321](https://github.com/vercel/vercel/pull/11321))
+
+- Updated dependencies [[`346e665bb`](https://github.com/vercel/vercel/commit/346e665bb021e6034bc70c82ef336485622595fe)]:
+  - @vercel/node@3.0.26
+
 ## 33.6.2
 
 ### Patch Changes
